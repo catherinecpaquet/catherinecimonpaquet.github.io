@@ -8,6 +8,7 @@ pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
+
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
@@ -164,7 +165,7 @@ info = "Lecturer, PhD Candidate in Psychology, & Science Communicator"
 #url = "contact/"
 
 [languages.fr]
-languageName = "Français"
+languageName = "Francais"
 title = "Catherine Cimon-Paquet"
 
 [languages.fr.params]
