@@ -18,7 +18,7 @@ author = "Catherine"
 description = "Catherine Cimon-Paquet academic website"
 keywords = "blog,scientist,personal"
 #info = ["Full Stack DevOps", "Magician"]
-#avatarURL = "images/avatar.jpg"
+#avatarURL = "images/CCPavatar.jpg"
 #gravatar = "catherinecpaquet@gmail.com"
 dateFormat = "January 2, 2006"
 since = 2022
@@ -143,7 +143,7 @@ title = "Catherine Cimon-Paquet"
 
 [languages.en.params]
 author = "Catherine Cimon-Paquet"
-info = "Lecturer, PhD Candidate in Psychology, & Science Communicator"
+info = "Lecturer, PhD Candidate in Psychology, & Science Communicator | Enseignante, candidate au doctorat et communicatrice scientifique"
 
 #[[languages.en.menu.main]]
 #name = "About"
@@ -164,15 +164,15 @@ info = "Lecturer, PhD Candidate in Psychology, & Science Communicator"
 #weight = 5
 #url = "contact/"
 
-[languages.fr]
-languageName = "Francais"
-title = "Catherine Cimon-Paquet"
+#[languages.fr]
+#languageName = "Francais"
+#title = "Catherine Cimon-Paquet"
 
-[languages.fr.params]
-author = "Catherine Cimon-Paquet"
-info = "Enseignante, candidate au doctorat en psychologie et communicatrice scientifique"
-description = "Site personnel"
-keywords = "blog,scientifique"
+#[languages.fr.params]
+#author = "Catherine Cimon-Paquet"
+#info = "Enseignante, candidate au doctorat en psychologie et communicatrice scientifique"
+#description = "Site personnel"
+#keywords = "blog,scientifique"
 
 #[[languages.fr.menu.main]]
 #name = "À propos"
