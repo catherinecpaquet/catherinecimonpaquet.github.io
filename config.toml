@@ -18,8 +18,8 @@ author = "Catherine"
 description = "Catherine Cimon-Paquet academic website"
 keywords = "blog,scientist,personal"
 info = ["Scientist"]
-avatarURL = "catherinecimonpaquet.github.io/images/CCPavatar.JPG"
-#gravatar = "catherinecpaquet@gmail.com"
+#avatarURL = "catherinecimonpaquet.github.io/images/CCPavatar.JPG"
+gravatarEmail = "catherinecpaquet@gmail.com"
 dateFormat = "January 2, 2006"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it
