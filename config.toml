@@ -158,8 +158,13 @@ url = "about/"
 
 [[languages.en.menu.main]]
 name = "Publications"
-weight = 3
+weight = 2
 url = "publications/"
+
+[[languages.en.menu.main]]
+name = "Medias"
+weight = 3
+url = "medias/"
 
 [[languages.en.menu.main]]
 name = "Contact"
