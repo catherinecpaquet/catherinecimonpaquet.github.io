@@ -5,7 +5,7 @@ title = "About"
 slug = ""
 +++
 
-Hi! My name is Catherine and I am a PhD candidate in Psychology at the Université du Québec à Montréal, located in beautiful Québec, Canada.
+Hi! My name is Catherine and I am a PhD candidate in Educational Psychology at the Université du Québec à Montréal, located in beautiful Québec, Canada. I previously completed a CEGEP degree in health sciences, a Bachelor's degree (BSc) and a Masters degree (MSc) in Developmental Psychology at Université de Montréal, Canada.
 
 With over 9 years of experience in scientific research, I am interested in advanced statistical analysis (R, Mplus), as I aim to better understand the complexity of human psychology.
 

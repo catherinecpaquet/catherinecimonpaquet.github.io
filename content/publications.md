@@ -5,7 +5,7 @@ title = "Publications"
 slug = ""
 +++
 
-For the full updated list, please look at my Google Scholar profile.
+For the full updated list, please look at my [Google Scholar profile](https://scholar.google.ca/citations?user=5-tHWakAAAAJ&hl=en).
 
 **Published or accepted (in press) papers**
 
@@ -32,6 +32,8 @@ For the full updated list, please look at my Google Scholar profile.
 **Book Chapter (peer reviewed)**
 
 1 -	Bernier, A., Cimon-Paquet, C., Tétreault, É. (2020). Sleep development in preschool predicts executive functioning in early elementary school. Dans Berger, S. (dir.), Interdisciplinary Perspectives on the Relation between Sleep and Learning in Early Development (vol. 60). Advances in Child Development and Behavior. https://doi.org/10.1016/bs.acdb.2020.08.005
+
+
 
 ***National or international conferences presentations (Selected)***
 

@@ -8,6 +8,6 @@ slug = ""
 
 My office is located at the Université du Québec à Montréal, in the Psychology Department.
 
-Email : cimon-paquet.catherine (a) uqam.ca
+I am always happy to collaborate and take a coffee with people who have similar interests!
 
-<img src="images/CCPavatar.png" alt="profil" width="550"/>
+Email : cimon-paquet.catherine (a) uqam.ca
