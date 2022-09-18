@@ -1,9 +1,8 @@
 +++
+draft = false
+date = 2022-09-18T08:36:55-04:00
 title = "About"
-description = "About Catherine"
-date = "2022-10-18"
-aliases = ["about-us", "about", "contact"]
-author = "catherinecimonpaquet"
+slug = ""
 +++
 
 Hi! My name is Catherine and I am a PhD candidate in Psychology at the Université du Québec à Montréal, located in beautiful Québec, Canada.
@@ -30,6 +29,12 @@ I am a collaborator on several science communication projects:
 You can also follow me on social medias to follow my adventures as a woman in STEM!
 
 [Instagram @catherinecimonpaquet](https://instagram.com/catherinecimonpaquet)
-[Instagram @douance.science](https://instagram.com/douance.science)
+
+
+[Instagram @Douance.Science](https://instagram.com/douance.science)
+
+
 [Youtube](https://www.youtube.com/channel/UCXo81TUwh_ZizM75VxLD05g)
-[Researchgate]https://www.researchgate.net/profile/Catherine-Cimon-Paquet
+
+
+[Researchgate](https://www.researchgate.net/profile/Catherine-Cimon-Paquet)
