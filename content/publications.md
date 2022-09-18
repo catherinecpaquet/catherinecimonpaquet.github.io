@@ -59,6 +59,8 @@ For the full updated list, please look at my Google Scholar profile.
 
 4 -	**Cimon-Paquet, C.,** Tétreault, É., & Bernier, A. (November 2017). Child temperament in infancy and sleep duration at school age: The moderating role of mother-child attachment security. Poster presented at the Ninth Biennial Pediatric Sleep Medicine Conference, Florida, USA
 
+**I won the Best Poster Award - Masters students when I presented this poster at the annual conference of the Centre for Research on Human Development held at Concordia University in 2018**
+
 3 -	**Cimon-Paquet, C.,** Tétreault, É., & Bernier, A. (April 2017). Associations longitudinales entre les relations parent-enfant à l'âge préscolaire et la durée de sommeil à l'âge scolaire [Longitudinal associations between parent-child relationships at preschool age and sleep duration at school age]. Poster presented at the Quebec Society for Research in Psychology conference, Montreal, Canada.
 
 2 -	**Cimon-Paquet, C.,** Courchesne, V., Bilodeau, V., Lajeunesse, S., Mineau, S., & Jacques, C. (April 2016). Les émotions exprimées par les enfants autistes sont-elles typiques en situation de jeu? [Are the emotions expressed by children with autism typical in play situations?] Poster presented at the Quebec Society for Research in Psychology conference, Trois-Rivières, Canada.
