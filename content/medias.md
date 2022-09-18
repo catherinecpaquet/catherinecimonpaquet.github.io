@@ -41,7 +41,7 @@ If you are a graduate student interested in #SciComm, please consider applying f
 
 [The importance of science communication - Catherine Cimon-Paquet](https://www.youtube.com/watch?v=EzQX3Hs6D-s)
 
-**According to a study**
+**Selon une étude [According to a study]**
 
 [Giftedness - Catherine Cimon-Paquet](https://www.youtube.com/watch?v=nBk9PrteflE&list=PL3pBdPyQN-4YLJk4M9fH6idYJVUZu_B3h&index=2)
 
@@ -49,18 +49,18 @@ If you are a graduate student interested in #SciComm, please consider applying f
 
 [Giftedness - Leslie-Ann Knapp and Catherine Cimon-Paquet](https://www.youtube.com/watch?v=vOs8QmNfJZ8&list=PL3pBdPyQN-4YLJk4M9fH6idYJVUZu_B3h&index=3)
 
-**Les Neurodivertissantes (podcast on neurodiversity)**
+**Les Neurodivertissantes [podcast on neurodiversity]**
 
 [Can we study happiness? - Catherine Cimon-Paquet](https://open.spotify.com/episode/5qVpZ92kx7JYftGLjlmloU?si=rhCoJWLdTMOVRpwEwgTh1g)
 
-**Buzze Tete (podcast on psychology)**
+**Buzze Tete [podcast on psychology]**
 
 [The science of happiness - Catherine Cimon-Paquet](https://open.spotify.com/episode/1bx9mq4OC9xpczwYtp1X44?si=ERcKT925Qjm-sO_id1Mvdw)
 [On Giftedness - Catherine Cimon-Paquet](https://open.spotify.com/episode/4yv3nXKe7QUwxhGRIbywX3?si=8KwQXcTXR7SmfhQBWbNA4g)
 
 ***Radio***
 
-**Folie douce (tender madness)**
+**Folie douce [tender madness]**
 
 [Giftedness and mental health - Catherine Cimon-Paquet](https://www.youtube.com/watch?v=nFL2mFGOoAk)
 

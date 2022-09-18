@@ -15,13 +15,13 @@ For the full updated list, please look at my [Google Scholar profile](https://sc
 
 9 -	Marquis-Brideau, C., Bernier, A., **Cimon-Paquet, C.,**  & Sirois, M.-S. (2022, In press). Trajectory of Quality of Mother–Child Interactions: Prospective Links with Child Socioemotional Functioning. Social Development.
 
-8 -	**Cimon-Paquet, C.,**  Bélanger, F. A., & Véronneau, M.-H. (2022,in press). Consommation de substances et perception des relations élèves-enseignants au secondaire : associations bidirectionnelles [Substance use and perceived student-teacher relationships in high school: bidirectional associations]. Revue québécoise de psychologie.
+8 -	**Cimon-Paquet, C.,**  Bélanger, F. A., & Véronneau, M.-H. (2022, In press). Consommation de substances et perception des relations élèves-enseignants au secondaire : associations bidirectionnelles [Substance use and perceived student-teacher relationships in high school: bidirectional associations]. Revue québécoise de psychologie.
 
 7 - Gagné-Legault, G., **Cimon-Paquet, C.,** & Véronneau, M.-H. (2022, In press). Les perceptions de la supervision parentale selon les jeunes et leurs parents comme prédicteurs du fonctionnement scolaire à la fin du secondaire [Youth and parent perceptions of parental supervision as predictors of academic functioning at the end of high school]. McGill Journal of Education.
 
-6 -	**Cimon-Paquet, C.,** Bernier, A., Matte-Gagné, C., & Mageau, G. (2020). Early maternal autonomy support and mathematical achievement trajectories during elementary school. Learning and Individual Differences, 79. Article 101855. https://doi.org/10.1016/j.lindif.2020.101855
+6 -	Bernier, A., **Cimon-Paquet, C.** Tétreault, É., Carrier, J., Matte-Gagné, C. (2021). Prospective relations between sleep in preschool years and academic achievement at school entry. Journal of Sleep Research, 30(3). Article e13183. https://doi.org/10.1111/jsr.13183
 
-5 -	Bernier, A., **Cimon-Paquet, C.** Tétreault, É., Carrier, J., Matte-Gagné, C. (2021). Prospective relations between sleep in preschool years and academic achievement at school entry. Journal of Sleep Research, 30(3). Article e13183. https://doi.org/10.1111/jsr.13183
+5 - **Cimon-Paquet, C.,** Bernier, A., Matte-Gagné, C., & Mageau, G. (2020). Early maternal autonomy support and mathematical achievement trajectories during elementary school. Learning and Individual Differences, 79. Article 101855. https://doi.org/10.1016/j.lindif.2020.101855
 
 4 -	Bernier, A., Beauchamp, M. H., & **Cimon-Paquet, C.** (2020). From early relationships to pre-academic knowledge: A socio-cognitive developmental cascade to school readiness. Child Development, 91(1), e134–e145. https://doi.org/10.1111/cdev.13160
 
@@ -36,9 +36,9 @@ For the full updated list, please look at my [Google Scholar profile](https://sc
 
 ***Submitted manuscript***
 
-2.	Girard, D., Courchesne, V., **Cimon-Paquet, C.,** Jacques, C., & Soulières, I. (2022). Blinded for review. Revised and resubmitted. *Autism.*
+2 -	Girard, D., Courchesne, V., **Cimon-Paquet, C.,** Jacques, C., & Soulières, I. (2022). Blinded for review. Revised and resubmitted. *Autism.*
 
-1. Paquette, V., Holding, A. C., **Cimon-Paquet, C.,**, Giroux, A., Gosselin-Boucher, V., & Vallerand, B. (2022). Blinded for review. Submitted to *Personality and Individual Differences*.
+1 - Paquette, V., Holding, A. C., **Cimon-Paquet, C.,**, Giroux, A., Gosselin-Boucher, V., & Vallerand, B. (2022). Blinded for review. Submitted to *Personality and Individual Differences*.
 
 ***National or international conferences presentations (Selected)***
 
