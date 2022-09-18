@@ -1,2 +1,5 @@
 # catherinecimonpaquet.github.io
-academic site 2.0
+
+Github.io Site Powered by Hugo & Coder.
+
+www.catherinecimonpaquet.com
