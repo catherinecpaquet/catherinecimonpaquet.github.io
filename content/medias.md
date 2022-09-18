@@ -5,7 +5,7 @@ title = "Science Communication activities"
 slug = ""
 +++
 
-I am an active science communicator on social media #SciComm with more than 6000 followers, notably on Instagram [@douance.science](https://www.instagram.com/douance.science) and [@catherinecimonpaquet](https://www.instagram.com/catherinecimonpaquet). I also created a scientific podcast named *Entropie Lab* (more than 4500 downloads) and a [youtube channel with statistics tutorials](https://www.youtube.com/channel/UCXo81TUwh_ZizM75VxLD05g). I have been invited to participate in several French Canadian podcasts episodes including Parents pour la 1re fois, Infuse magazine, Les Neurodivertissantes, Grandir Ensemble, Folie Douce, Vérité ou Quoi?, Buzzé tête, and Selon une étude.
+I am an active science communicator on social media #SciComm with more than 6000 followers, notably on Instagram [@douance.science](https://www.instagram.com/douance.science) and [@catherinecimonpaquet](https://www.instagram.com/catherinecimonpaquet). I also created a scientific podcast named *Entropie Lab* (more than 4500 downloads) and a [youtube channel with statistics tutorials](https://www.youtube.com/channel/UCXo81TUwh_ZizM75VxLD05g). I blog on giftedness on [Substack](https://douancescience.substack.com/). I have been invited to participate in several French Canadian podcasts episodes including Parents pour la 1re fois, Infuse magazine, Les Neurodivertissantes, Grandir Ensemble, Folie Douce, Vérité ou Quoi?, Buzzé tête, and Selon une étude.
 
 If you are a graduate student interested in #SciComm, please consider applying for [ComSciCon-QC 2023](https://www.comsciconqc.com)! I am a part of the organizing committee and it is going to be amazing!
 
@@ -72,10 +72,16 @@ Cimon-Paquet, C. (2022). L’autocompassion pour mieux naviguer à travers les t
 Lefebvre, E. & Cimon-Paquet, C. (2022). L'acceptation des émotions au coeur du bien-être. [
 The acceptance of emotions at the heart of well-being.] *La Fibre, Sciences 101.* https://sciences101.ca/revue-la-fibre/
 
+Cimon-Paquet, C. (2022). Catherine Cimon-Paquet | Student Success Series. [Blog Post]. *Canadian Positive Psychology Association - Students*. https://cppastudents.medium.com/catherine-cimon-paquet-student-success-series-f7f6e44f758d
+
 Cimon-Paquet, C. & Dussault, É. (2021). Les émotions désagréables sont normales et souhaitables en milieu universitaire. [Unpleasant emotions are normal and desirable in a university setting. *The Conversation Canada*].  https://theconversation.com/les-emotions-desagreables-sont-normales-et-souhaitables-en-milieu-universitaire-171924
 
 Cimon-Paquet C. & Soulières, I. (2021). Twice-exceptional: high intellectual potential and autism.
 *Sur le Spectre*, Official Magazine of the Montreal Autism Cognitive Neuroscience Research Group, 12, 3. http://grouperechercheautismemontreal.ca/Magazine.aspx
+
+Cimon-Paquet, C. (2022). Reflecting on our passions to change our life | Positive Psychology Concepts Series. [Blog Post]. *Canadian Positive Psychology Association - Students*. https://cppastudents.medium.com/reflecting-on-our-passions-to-change-our-life-positive-psychology-concepts-series-893aa7381fdd
+
+Cimon-Paquet, C. (2021). Positive Psychology: A Necessary Revolution | Positive Psychology Concepts Series. [Blog Post]. *Canadian Positive Psychology Association - Students*. https://cppastudents.medium.com/positive-psychology-a-necessary-revolution-positive-psychology-concepts-series-cf27902434f7
 
 Cmon-Paquet, C. (2020). Experience.  *La Fibre, Sciences 101.* https://sciences101.ca/revue-la-fibre/
 
