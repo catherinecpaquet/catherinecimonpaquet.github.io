@@ -13,7 +13,7 @@ I have published [10+ scientific papers](https://scholar.google.ca/citations?use
 
 I am currently funded by a Canada Graduate Scholarship - Doctoral program (CGS-D Joseph-Armand Bombardier 2021-2024) from the Social Sciences and Humanities Research Council (SSHRC). I previously secured funding from the Québec Research Funds, SSHRC, UQAM, Université de Montréal, Centre for Research on Human Development, Society for Research on Child Development, and the Society for Research on Adolescence. I have no conflicts of interests to declare.
 
-My research interests are in the area of human development and positive psychology (interpersonal relationships, motivation, passion, sleep, and educational pathways). I am passionate about parenting and how our early experiences have profound impacts on our future relationships and our well-being.
+My research interests are in the area of human development and positive psychology (interpersonal relationships, motivation, passion, sleep, and educational pathways). I am passionate about parenting and how our early experiences have profound impacts on our future relationships and our well-being. My thesis aims to better understand how parenting during childhood and adulthood can foster educational success (academic performance, school motivation, educational attainment and satisfaction with educational pathways during adulthood).
 
 During my career, I have coordinated research projects and participated in the training of numerous university students (mentoring, coaching, teaching). I am highly involved in [science communication (blog posts, podcasts, videos)](https://www.catherinecimonpaquet.com/medias) and created a community of 6000+ people on my various social networks.
 

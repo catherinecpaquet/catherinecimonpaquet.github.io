@@ -34,10 +34,15 @@ For the full updated list, please look at my [Google Scholar profile](https://sc
 1 -	Bernier, A., Cimon-Paquet, C., Tétreault, É. (2020). Sleep development in preschool predicts executive functioning in early elementary school. Dans Berger, S. (dir.), Interdisciplinary Perspectives on the Relation between Sleep and Learning in Early Development (vol. 60). Advances in Child Development and Behavior. https://doi.org/10.1016/bs.acdb.2020.08.005
 
 
+***Submitted manuscript***
+
+2.	Girard, D., Courchesne, V., **Cimon-Paquet, C.,** Jacques, C., & Soulières, I. (2022). Blinded for review. Revised and resubmitted. *Autism.*
+
+1. Paquette, V., Holding, A. C., **Cimon-Paquet, C.,**, Giroux, A., Gosselin-Boucher, V., & Vallerand, B. (2022). Blinded for review. Submitted to *Personality and Individual Differences*.
 
 ***National or international conferences presentations (Selected)***
 
-13 -	**Cimon-Paquet, C.,** Véronneau, M.-H., & Mathys, C. (March 2023). Beyond the Laws: Parental Monitoring, Perceived Acceptability of Underage Drinking and Youth Alcohol Use. Flash talk presentation submitted to the Society for Research in Child Development (SRCD), Salt Lake City, É.-U.
+13 -	**Cimon-Paquet, C.,** Véronneau, M.-H., & Mathys, C. (March 2023). Blinded for review. Flash talk presentation submitted to the Society for Research in Child Development (SRCD), Salt Lake City, É.-U.
 
 12 -	**Cimon-Paquet, C.,** Stack, D. M., Serbin, L. (August 2022). Early mother and child emotional availability during dyadic interactions as an antecedent of life satisfaction during adolescence. Poster presented at the European Association for Research on Adolescence (EARA) conference, Dublin, Ireland.
 
