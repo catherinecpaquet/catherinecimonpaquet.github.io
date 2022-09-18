@@ -88,17 +88,17 @@ Cimon-Paquet C. (2016). Perceiving the forest and the trees
 **I am also a regular collaborator on ÉducoFamille, a blog founded by [Audrey-Ann Deneault, a postdoctoral fellow at University of Calgary.](https://profiles.ucalgary.ca/audrey-ann-deneault)**
 
 
-Cimon-Paquet, C. (2022). La haute sensibilité, une histoire de tempérament. [High sensitivity, a story of temperament]. [Blog Post]. *ÉducoFamille* https://educofamille.com/haute-sensibilite/
+Cimon-Paquet, C. (2022). La haute sensibilité, une histoire de tempérament. [High sensitivity, a story of temperament]. [Blog Post]. *ÉducoFamille.* https://educofamille.com/haute-sensibilite/
 
-Cimon-Paquet, C. (2022). Les nombreux bénéfices de la passion harmonieuse [The many benefits of harmonious passion]. [Blog Post]. *ÉducoFamille* https://educofamille.com/passion-harmonieuse/
+Cimon-Paquet, C. (2022). Les nombreux bénéfices de la passion harmonieuse [The many benefits of harmonious passion]. [Blog Post]. *ÉducoFamille.* https://educofamille.com/passion-harmonieuse/
 
-Cimon-Paquet, C. (2022). La satisfaction des trois besoins psychologiques des enfants contribue à leur épanouissement. [The satisfaction of the three psychological needs of children contributes to their development]. [Blog Post]. *ÉducoFamille* https://educofamille.com/trois-besoins/
+Cimon-Paquet, C. (2022). La satisfaction des trois besoins psychologiques des enfants contribue à leur épanouissement. [The satisfaction of the three psychological needs of children contributes to their development]. [Blog Post]. *ÉducoFamille.* https://educofamille.com/trois-besoins/
 
-Cimon-Paquet, C. & François-Sévigny, J. (2021). Reconnaître les défis reliés à la double exceptionnalité est important pour toute la famille. [Recognizing the challenges related to double exceptionality is important for the whole family]. [Blog Post]. *ÉducoFamille* https://educofamille.com/double-exceptionnalite/
+Cimon-Paquet, C. & François-Sévigny, J. (2021). Reconnaître les défis reliés à la double exceptionnalité est important pour toute la famille. [Recognizing the challenges related to double exceptionality is important for the whole family]. [Blog Post]. *ÉducoFamille.* https://educofamille.com/double-exceptionnalite/
 
-Cimon-Paquet, C. (2021). Concernant la douance, l’environnement fait toute la différence! [When it comes to giftedness, the environment makes all the difference!]. [Blog Post]. *ÉducoFamille* https://educofamille.com/douance/
+Cimon-Paquet, C. (2021). Concernant la douance, l’environnement fait toute la différence! [When it comes to giftedness, the environment makes all the difference!]. [Blog Post]. *ÉducoFamille.* https://educofamille.com/douance/
 
-Cimon-Paquet, C. (2021). Soutenir l’autonomie de son enfant pour stimuler son développement [Autonomy support can promote optimal child development]. [Blog Post]. *ÉducoFamille*  https://educofamille.com/soutien-a-lautonomie/
+Cimon-Paquet, C. (2021). Soutenir l’autonomie de son enfant pour stimuler son développement [Autonomy support can promote optimal child development]. [Blog Post]. *ÉducoFamille.*  https://educofamille.com/soutien-a-lautonomie/
 
 ***Videos and Webinars***
 
@@ -108,4 +108,4 @@ Cimon-Paquet, C. (2021). Soutenir l’autonomie de son enfant pour stimuler son 
 
 **BistroBrain**
 
-[Catherine Cimon-Paquet - In 2022, let<s change how we see Giftedness!](https://www.youtube.com/watch?v=WyE8zIjj1iQ&list=PL3pBdPyQN-4YLJk4M9fH6idYJVUZu_B3h&index=5)
+[Catherine Cimon-Paquet - In 2022, let's change how we see giftedness!](https://www.youtube.com/watch?v=WyE8zIjj1iQ&list=PL3pBdPyQN-4YLJk4M9fH6idYJVUZu_B3h&index=5)

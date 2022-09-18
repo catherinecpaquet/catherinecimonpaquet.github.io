@@ -38,7 +38,7 @@ For the full updated list, please look at my [Google Scholar profile](https://sc
 
 2 -	Girard, D., Courchesne, V., **Cimon-Paquet, C.,** Jacques, C., & Soulières, I. (2022). Blinded for review. Revised and resubmitted. *Autism.*
 
-1 - Paquette, V., Holding, A. C., **Cimon-Paquet, C.,**, Giroux, A., Gosselin-Boucher, V., & Vallerand, B. (2022). Blinded for review. Submitted to *Personality and Individual Differences*.
+1 - Paquette, V., Holding, A. C., **Cimon-Paquet, C.,** Giroux, A., Gosselin-Boucher, V., & Vallerand, B. (2022). Blinded for review. Submitted to *Personality and Individual Differences*.
 
 ***National or international conferences presentations (Selected)***
 
