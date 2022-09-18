@@ -21,25 +21,26 @@ Finally, I volunteer regularly for nonprofit organizations, notably the [Canadia
 
 My top character strengths are honesty, love of learning, perseverance, courage and perspective!
 
+I try to embody what I study, and thus, I try to align my actions with my core values. In my free time, I enjoy spending time in nature, with the people I love most, and I practice yoga and mindfulness.
+
 I am a collaborator on several science communication projects:
 
-* [Vérité ou Quoi?(https://veriteouquoi.com)
-* ÉducoFamille (https://educofamille.com)
-* Ça va maman? (https://cavamaman.com)
-* Douance & Science (https://douancescience.substack.com)
-* ComsCiCon-QC (https://comsciconqc.com)
-* Regroupement Québécois pour la Psychologie Positive (https://rqpp.ca/)
+* [Vérité ou Quoi?](https://veriteouquoi.com)
+* [ÉducoFamille](https://educofamille.com)
+* [Ça va maman?](https://cavamaman.com)
+* [Douance & Science](https://douancescience.substack.com)
+* [ComsCiCon-QC](https://comsciconqc.com)
+* [Regroupement Québécois pour la Psychologie Positive](https://rqpp.ca/)
 
 
 You can also follow me on social medias to follow my adventures as a woman in STEM!
 
 [Instagram @catherinecimonpaquet](https://instagram.com/catherinecimonpaquet)
 
-
 [Instagram @Douance.Science](https://instagram.com/douance.science)
 
+[Twitter @ccpaquet](https://twitter.com/ccpaquet)
 
 [Youtube](https://www.youtube.com/channel/UCXo81TUwh_ZizM75VxLD05g)
-
 
 [Researchgate](https://www.researchgate.net/profile/Catherine-Cimon-Paquet)

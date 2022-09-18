@@ -49,7 +49,7 @@ For the full updated list, please look at my [Google Scholar profile](https://sc
 
 9 -	**Cimon-Paquet, C.,** Tétreault, É., Bernier, A., & Matte-Gagné, C. (March 2019). Sleep growth curves in the preschool years as predictors of early academic performance. Dans Gueron-Sela, N. (dir.), Sleep and Cognition from Infancy to Middle Childhood: The Role of Socioeconomic Factors. Symposium presented at the Society for Research in Child Development (SRCD) conference, Baltimore, USA.
 
-**I won a travel award for SRCD 2019!**
+**I won a travel award from SRCD in 2019!**
 
 8 -	**Cimon-Paquet, C.,** Véronneau, M.-H., Gaudet, O., & Verner-Filion, J. (March 2020). Parental monitoring and school motivation during adolescence: A transactional model. Poster accepted at the Society for Research on Adolescence (SRA) conference, San Diego, USA (cancelled because of COVID-19).
 

@@ -65,14 +65,21 @@ If you are a graduate student interested in #SciComm, please consider applying f
 [Giftedness and mental health - Catherine Cimon-Paquet](https://www.youtube.com/watch?v=nFL2mFGOoAk)
 
 
-***Blog posts***
+***Blog posts and other publications (written format)***
 
 Cimon-Paquet, C. (2022). L’autocompassion pour mieux naviguer à travers les tempêtes. Magazine Ça va maman?. [Self-compassion to better navigate through the storms. *Are you OK mom? magazine*]. [Blog Post]. https://www.cavamaman.com/blog/l-autocompassion-pour-mieux-naviguer-a-travers-les-tempetes
+
+Lefebvre, E. & Cimon-Paquet, C. (2022). L'acceptation des émotions au coeur du bien-être. [
+The acceptance of emotions at the heart of well-being.] *La Fibre, Sciences 101.* https://sciences101.ca/revue-la-fibre/
 
 Cimon-Paquet, C. & Dussault, É. (2021). Les émotions désagréables sont normales et souhaitables en milieu universitaire. [Unpleasant emotions are normal and desirable in a university setting. *The Conversation Canada*].  https://theconversation.com/les-emotions-desagreables-sont-normales-et-souhaitables-en-milieu-universitaire-171924
 
 Cimon-Paquet C. & Soulières, I. (2021). Twice-exceptional: high intellectual potential and autism.
 *Sur le Spectre*, Official Magazine of the Montreal Autism Cognitive Neuroscience Research Group, 12, 3. http://grouperechercheautismemontreal.ca/Magazine.aspx
+
+Cmon-Paquet, C. (2020). Experience.  *La Fibre, Sciences 101.* https://sciences101.ca/revue-la-fibre/
+
+*I was invited to write an article on my podcasting experience after winning the first prize of Science 101 Science communication contest in 2020.*
 
 Cimon-Paquet C. (2016). Perceiving the forest and the trees
 *Sur le Spectre*, Official Magazine of the Montreal Autism Cognitive Neuroscience Research Group, 1. http://grouperechercheautismemontreal.ca/Magazine.aspx
