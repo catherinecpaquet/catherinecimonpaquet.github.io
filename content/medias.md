@@ -67,10 +67,11 @@ If you are a graduate student interested in #SciComm, please consider applying f
 
 ***Blog posts and other publications (written format)***
 
+**Cimon-Paquet, C.,** Vernier-Filion, J. & Véronneau, M.-H. (2022). Discutez avec votre ado, il sera plus motivé à l'école ! La Conversation Canada.  https://theconversation.com/discutez-avec-votre-ado-il-sera-plus-motive-a-lecole-189929
+
 Cimon-Paquet, C. (2022). L’autocompassion pour mieux naviguer à travers les tempêtes. Magazine Ça va maman?. [Self-compassion to better navigate through the storms. *Are you OK mom? magazine*]. [Blog Post]. https://www.cavamaman.com/blog/l-autocompassion-pour-mieux-naviguer-a-travers-les-tempetes
 
-Lefebvre, E. & Cimon-Paquet, C. (2022). L'acceptation des émotions au coeur du bien-être. [
-The acceptance of emotions at the heart of well-being.] *La Fibre, Sciences 101.* https://sciences101.ca/revue-la-fibre/
+Lefebvre, E. & **Cimon-Paquet, C. (2022).** L'acceptation des émotions au coeur du bien-être. [The acceptance of emotions at the heart of well-being.] *La Fibre, Sciences 101.* https://sciences101.ca/revue-la-fibre/
 
 Cimon-Paquet, C. (2022). Catherine Cimon-Paquet | Student Success Series. [Blog Post]. *Canadian Positive Psychology Association - Students*. https://cppastudents.medium.com/catherine-cimon-paquet-student-success-series-f7f6e44f758d
 
@@ -93,6 +94,7 @@ Cimon-Paquet C. (2016). Perceiving the forest and the trees
 
 **I am also a regular collaborator on ÉducoFamille, a blog founded by [Audrey-Ann Deneault, a postdoctoral fellow at University of Calgary.](https://profiles.ucalgary.ca/audrey-ann-deneault)**
 
+Gendron, L., & **Cimon-Paquet, C.**. (2022). La vigilance parentale bienveillante à l’adolescence. [Benevolent parental vigilance in adolescence]. [Blog Post]. *ÉducoFamille.* https://educofamille.com/vigilance-parentale/
 
 Cimon-Paquet, C. (2022). La haute sensibilité, une histoire de tempérament. [High sensitivity, a story of temperament]. [Blog Post]. *ÉducoFamille.* https://educofamille.com/haute-sensibilite/
 

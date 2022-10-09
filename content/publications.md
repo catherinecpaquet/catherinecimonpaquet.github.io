@@ -13,7 +13,9 @@ For the full updated list, please look at my [Google Scholar profile](https://sc
 
 10 -  **Cimon-Paquet, C.,**  Tétreault, É., Matte-Gagné, C., Bastien, L., & Bernier, A. (2022). Mother-child interactions and child temperamental anger as predictors of sleep developments during the preschool period. Developmental Psychology. https://doi.org/10.1037/dev0001377
 
-9 -	Marquis-Brideau, C., Bernier, A., **Cimon-Paquet, C.,**  & Sirois, M.-S. (2022, In press). Trajectory of Quality of Mother–Child Interactions: Prospective Links with Child Socioemotional Functioning. Social Development.
+9 -	Marquis-Brideau, C., Bernier, A., **Cimon-Paquet, C.,** & Sirois, M. S. (2022). Trajectory
+of quality of mother-child interactions: Prospective links with child socioemotional functioning. Social
+Development, 1–15. https://doi.org/10.1111/sode.12644
 
 8 -	**Cimon-Paquet, C.,**  Bélanger, F. A., & Véronneau, M.-H. (2022, In press). Consommation de substances et perception des relations élèves-enseignants au secondaire : associations bidirectionnelles [Substance use and perceived student-teacher relationships in high school: bidirectional associations]. Revue québécoise de psychologie.
 
