@@ -5,9 +5,7 @@ title = "Science Communication activities"
 slug = ""
 +++
 
-I am an active science communicator on social media #SciComm with more than 6000 followers, notably on Instagram [@douance.science](https://www.instagram.com/douance.science) and [@catherinecimonpaquet](https://www.instagram.com/catherinecimonpaquet). I also created a scientific podcast named *Entropie Lab* (more than 4500 downloads) and a [youtube channel with statistics tutorials](https://www.youtube.com/channel/UCXo81TUwh_ZizM75VxLD05g). I blog on giftedness on [Substack](https://douancescience.substack.com/). I have been invited to participate in several French Canadian podcasts episodes including Parents pour la 1re fois, Infuse magazine, Les Neurodivertissantes, Grandir Ensemble, Folie Douce, Vérité ou Quoi?, Buzzé tête, and Selon une étude.
-
-If you are a graduate student interested in #SciComm, please consider applying for [ComSciCon-QC 2023](https://www.comsciconqc.com)! I am a part of the organizing committee and it is going to be amazing!
+I am an active science communicator on social media #SciComm with more than 7000 followers, notably on Instagram [@douance.science](https://www.instagram.com/douance.science) and [@catherinecimonpaquet](https://www.instagram.com/catherinecimonpaquet). I also created a scientific podcast named *Entropie Lab* (more than 4500 downloads) and a [youtube channel with statistics tutorials](https://www.youtube.com/channel/UCXo81TUwh_ZizM75VxLD05g). I blog on giftedness on [Substack](https://douancescience.substack.com/). I have been invited to participate in several French Canadian podcasts episodes including Parents pour la 1re fois, Infuse magazine, Les Neurodivertissantes, Grandir Ensemble, Folie Douce, Vérité ou Quoi?, Buzzé tête, and Selon une étude.
 
 ***Editorial***
 
@@ -22,6 +20,13 @@ If you are a graduate student interested in #SciComm, please consider applying f
 **Entropie Lab by Catherine Cimon-Paquet**
 
 [Listen on Spotify](https://open.spotify.com/show/3ajFceeSVXFWmzrw2L3tbh)
+
+**À la hauteur de nos tout-petits [At the height of our toddlers]**
+
+[E28: How can we foster intrinsic motivation in our children? - Charlotte Longpré and Catherine Cimon-Paquet](https://www.youtube.com/watch?v=JW_fPeTN4uM&t=559s)
+
+**Midi-Jasette avec Stéphanie Deslauriers, ps. éd.**
+[Lunch talk in good company: Catherine Cimon-Paquet](https://open.spotify.com/episode/5al2TnxWgKXk13vsULozGN?si=7PrMF7wKSIOoYehcDczXUw)
 
 **Vérité ou Quoi? [Truth or what?]**
 
@@ -110,8 +115,9 @@ Cimon-Paquet, C. (2021). Soutenir l’autonomie de son enfant pour stimuler son 
 
 ***Videos and Webinars***
 
-**Canadian Positive Psychology Association**
+[**My Youtube channel**](https://www.youtube.com/channel/UCXo81TUwh_ZizM75VxLD05g)
 
+**Canadian Positive Psychology Association**
 [Giftedness and Positive Psychology - Catherine Cimon-Paquet and Marine Miglianico](https://www.youtube.com/watch?v=WasVr9XSldc&list=PL3pBdPyQN-4YLJk4M9fH6idYJVUZu_B3h&index=4)
 
 **BistroBrain**
