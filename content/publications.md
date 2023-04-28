@@ -9,6 +9,12 @@ For the full updated list, please look at my [Google Scholar profile](https://sc
 
 **Published or accepted (in press) papers**
 
+14 -Boatswain-Jacques, A.-F., Dusablon, C., **Cimon Paquet, C.,** YuTong Guo, É. Y., Ménard, R., Matte-Gagné, C., Carrier, J., & Bernier, A. (2023, In Press).  From early birds to night owls: A longitudinal study of actigraphy-assessed sleep trajectories in pre adolescence. Accepted manuscript. SLEEP.
+
+13 -	Girard, D., Courchesne, V., **Cimon-Paquet, C.,** Jacques, C., & Soulières, I. (2022). Blinded for review. Revised and resubmitted. *Autism.* Advanced online publication. https://doi.org/10.1177/136236132311661
+
+12 - Paquette., V., Holding, A., **Cimon-Paquet, C.,** Giroux, A., Gosselin-Boucher, V., & Vallerand, R. J. (2023) Pursuing, developing, and letting go of a passionate activity when facing adversity in times of the COVID-19 pandemic: The impact on psychological adjustment. Personality and Individual Differences, 209. https://doi.org/10.1016/j.paid.2023.112217
+
 11 - **Cimon-Paquet, C.,** Gaudet, O., Vernier-Filion, J. & Véronneau, M.-H. (2022). Parental Monitoring and School Motivation During Adolescence: A Bidirectional Model. European Journal of Psychology of Education. https://doi.org/10.1007/s10212-022-00633-w
 
 10 -  **Cimon-Paquet, C.,**  Tétreault, É., Matte-Gagné, C., Bastien, L., & Bernier, A. (2022). Mother-child interactions and child temperamental anger as predictors of sleep developments during the preschool period. Developmental Psychology. https://doi.org/10.1037/dev0001377
@@ -38,13 +44,15 @@ Development, 1–15. https://doi.org/10.1111/sode.12644
 
 ***Submitted manuscript***
 
-2 -	Girard, D., Courchesne, V., **Cimon-Paquet, C.,** Jacques, C., & Soulières, I. (2022). Blinded for review. Revised and resubmitted. *Autism.*
-
-1 - Paquette, V., Holding, A. C., **Cimon-Paquet, C.,** Giroux, A., Gosselin-Boucher, V., & Vallerand, B. (2022). Blinded for review. Submitted to *Personality and Individual Differences*.
+1 - Cimon-Paquet, C. Véronneau, M.-H., & Mathys, C. Blinded for reviews. Journal of Youth and Adolescence.
 
 ***National or international conferences presentations (Selected)***
 
-13 -	**Cimon-Paquet, C.,** Véronneau, M.-H., & Mathys, C. (March 2023). Blinded for review. Flash talk presentation submitted to the Society for Research in Child Development (SRCD), Salt Lake City, É.-U.
+15 - **Cimon-Paquet, C.,** Décarpentrie, L., Mageau, G., & Vallerand, R. J. (June 2023). Parenting with Passion: A Look at Determinants and Outcomes. Rapid talk presented at the Self Determination Theory Conference, Orlando, USA.
+
+14 -	**Cimon-Paquet, C.,** Véronneau, M.-H., Ha, T., & Dishion, T. (March 2023). Parental monitoring and high school academic achievement as antecedents of educational attainment and job satisfaction. Poster presented at the Society for Research in Child Development (SRCD) Conference, Salt Lake City, USA.
+
+13 -	**Cimon-Paquet, C.,** Véronneau, M.-H., & Mathys, C. (March 2023). Beyond the laws: Parental monitoring, perceived acceptability of underage drinking and youth alcohol use.  Flash talk presentation presented at the Society for Research in Child Development (SRCD) Conference, Salt Lake City, USA.
 
 12 -	**Cimon-Paquet, C.,** Stack, D. M., Serbin, L. (August 2022). Early mother and child emotional availability during dyadic interactions as an antecedent of life satisfaction during adolescence. Poster presented at the European Association for Research on Adolescence (EARA) conference, Dublin, Ireland.
 
