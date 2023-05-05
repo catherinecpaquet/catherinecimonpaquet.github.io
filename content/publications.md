@@ -9,7 +9,7 @@ For the full updated list, please look at my [Google Scholar profile](https://sc
 
 **Published or accepted (in press) papers**
 
-14 -Boatswain-Jacques, A.-F., Dusablon, C., **Cimon Paquet, C.,** YuTong Guo, É. Y., Ménard, R., Matte-Gagné, C., Carrier, J., & Bernier, A. (2023, In Press).  From early birds to night owls: A longitudinal study of actigraphy-assessed sleep trajectories in pre adolescence. Accepted manuscript. SLEEP.
+14 - Boatswain-Jacques, A.-F., Dusablon, C., **Cimon Paquet, C.,** YuTong Guo, É. Y., Ménard, R., Matte-Gagné, C., Carrier, J., & Bernier, A. (2023, In Press).  From early birds to night owls: A longitudinal study of actigraphy-assessed sleep trajectories in pre adolescence. Accepted manuscript. SLEEP.
 
 13 -	Girard, D., Courchesne, V., **Cimon-Paquet, C.,** Jacques, C., & Soulières, I. (2022). Blinded for review. Revised and resubmitted. *Autism.* Advanced online publication. https://doi.org/10.1177/136236132311661
 

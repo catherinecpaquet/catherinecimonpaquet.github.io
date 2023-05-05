@@ -21,6 +21,14 @@ I am an active science communicator on social media #SciComm with more than 7000
 
 [Listen on Spotify](https://open.spotify.com/show/3ajFceeSVXFWmzrw2L3tbh)
 
+**Dose de Psy**
+
+[Emotional high sensitivity](https://open.spotify.com/episode/1oqC4lD6SdnOwM5LVZozjq?si=VtwMcXItQvq211BgD1RZ2Q)
+
+**Parle-moi de santé [Talk to me about health]**
+
+[Giftedness with Catherine Cimon-Paquet and Juliette François-Sévigny](https://youtu.be/tZN128MspqA)
+
 **À la hauteur de nos tout-petits [At the height of our toddlers]**
 
 [E28: How can we foster intrinsic motivation in our children? - Charlotte Longpré and Catherine Cimon-Paquet](https://www.youtube.com/watch?v=JW_fPeTN4uM&t=559s)
@@ -47,6 +55,8 @@ I am an active science communicator on social media #SciComm with more than 7000
 [The importance of science communication - Catherine Cimon-Paquet](https://www.youtube.com/watch?v=EzQX3Hs6D-s)
 
 **Selon une étude [According to a study]**
+
+[High sensitiviy - Catherine Cimon-Paquet and Daniel Grenier](https://youtu.be/Z2DT_XqP9pY)
 
 [Giftedness - Catherine Cimon-Paquet](https://www.youtube.com/watch?v=nBk9PrteflE&list=PL3pBdPyQN-4YLJk4M9fH6idYJVUZu_B3h&index=2)
 
